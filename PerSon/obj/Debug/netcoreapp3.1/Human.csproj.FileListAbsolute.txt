@@ -1,0 +1,14 @@
+C:\Users\ibm\Documents\PerSon\PerSon\bin\Debug\netcoreapp3.1\Human.exe
+C:\Users\ibm\Documents\PerSon\PerSon\bin\Debug\netcoreapp3.1\Human.deps.json
+C:\Users\ibm\Documents\PerSon\PerSon\bin\Debug\netcoreapp3.1\Human.runtimeconfig.json
+C:\Users\ibm\Documents\PerSon\PerSon\bin\Debug\netcoreapp3.1\Human.runtimeconfig.dev.json
+C:\Users\ibm\Documents\PerSon\PerSon\bin\Debug\netcoreapp3.1\Human.dll
+C:\Users\ibm\Documents\PerSon\PerSon\bin\Debug\netcoreapp3.1\Human.pdb
+C:\Users\ibm\Documents\PerSon\PerSon\obj\Debug\netcoreapp3.1\Human.csproj.AssemblyReference.cache
+C:\Users\ibm\Documents\PerSon\PerSon\obj\Debug\netcoreapp3.1\Human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\Documents\PerSon\PerSon\obj\Debug\netcoreapp3.1\Human.AssemblyInfoInputs.cache
+C:\Users\ibm\Documents\PerSon\PerSon\obj\Debug\netcoreapp3.1\Human.AssemblyInfo.cs
+C:\Users\ibm\Documents\PerSon\PerSon\obj\Debug\netcoreapp3.1\Human.csproj.CoreCompileInputs.cache
+C:\Users\ibm\Documents\PerSon\PerSon\obj\Debug\netcoreapp3.1\Human.dll
+C:\Users\ibm\Documents\PerSon\PerSon\obj\Debug\netcoreapp3.1\Human.pdb
+C:\Users\ibm\Documents\PerSon\PerSon\obj\Debug\netcoreapp3.1\Human.genruntimeconfig.cache
